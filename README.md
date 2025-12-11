@@ -98,10 +98,5 @@
 *   `ConflictPolicy.h`: 冲突策略接口与实现。
 *   `index.html`: 前端单页应用入口。
 
-## 📄 更多文档
 
-*   [详细设计文档 (Design Document)](Design_Document.md): 包含类图、详细代码定位及实现原理说明（答辩/深入学习专用）。
-*   [OOP 初学者指南 (OOP Guide)](readme2.md): 专为 C++ 初学者准备的面向对象概念通俗讲解。
-
----
 © 2023 Lab Management System Project
